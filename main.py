@@ -74,14 +74,14 @@ class NitroGen:  # Initialise the class
 ██║╚██╗██║██║   ██║██║  ╚════╝██║   ██║██╔═══╝ 
 ██║ ╚████║╚██████╔╝╚██████╗   ╚██████╔╝██║     
 ╚═╝  ╚═══╝ ╚═════╝  ╚═════╝    ╚═════╝ ╚═╝     
-                        [Made by t.me/AnukarOP]""")  # Print the title card
+                [ Credit https://AnukarOP.github.io/ ]""")  # Print the title card
         time.sleep(2)  # Wait a few seconds
         # Print who developed the code
-        self.slowType("Made by: Drillenissen#4268 && Benz#7274", .02)
+        self.slowType("Made by: AnukarOP 🚀", .02)
         time.sleep(1)  # Wait a little more
         # Print the first question
         self.slowType(
-            "\nInput How Many Codes to Generate and Check: ", .02, newLine=False)
+            "\nInput How Many Codes to Generate and Check 👉🏻 ", .02, newLine=False)
 
         try:
             num = int(input(''))  # Ask the user for the amount of codes
@@ -92,7 +92,7 @@ class NitroGen:  # Initialise the class
         if USE_WEBHOOK:
             # Get the webhook url, if the user does not wish to use a webhook the message will be an empty string
             self.slowType(
-                "If you want to use a Discord webhook, type it here or press enter to ignore: ", .02, newLine=False)
+                "If you want to use a Discord webhook, type it here or press enter to ignore 👉🏻 ", .02, newLine=False)
             url = input('')  # Get the awnser
             # If the url is empty make it be None insted
             webhook = url if url != "" else None
@@ -115,7 +115,7 @@ class NitroGen:  # Initialise the class
         for s in c:  # Loop over the amount of codes to check
             try:
                 code = ''.join(x for x in s)
-                url = f"https://discord.gift/{code}"  # Generate the url
+                url = f"https://discord.gift/{code} || Tool by @AnukarOP ✅"  # Generate the url
 
                 result = self.quickChecker(url, webhook)  # Check the codes
 
