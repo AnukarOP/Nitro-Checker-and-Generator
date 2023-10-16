@@ -134,12 +134,12 @@ class NitroGen:  # Initialise the class
 
             if os.name == "nt":  # If the system is windows
                 ctypes.windll.kernel32.SetConsoleTitleW(
-                    f"Nitro Generator and Checker - {len(valid)} Valid | {invalid} Invalid - Made by Drillenissen#4268")  # Change the title
+                    f"Nitro Generator and Checker - {len(valid)} Valid | {invalid} Invalid - Made by AnukarOP")  # Change the title
                 print("")
             else:  # If it is a unix system
                 # Change the title
                 print(
-                    f'\33]0;Nitro Generator and Checker - {len(valid)} Valid | {invalid} Invalid - Made by Drillenissen#4268\a', end='', flush=True)
+                    f'\33]0;Nitro Checker and Generator - {len(valid)} Valid | {invalid} Invalid - Made by AnukarOP\a', end='', flush=True)
 
         print(f"""
 Results:
@@ -148,7 +148,7 @@ Results:
  Valid Codes: {', '.join(valid)}""")  # Give a report of the results of the check
 
         # Tell the user the program finished
-        input("\nThe end! Press Enter 5 times to close the program.")
+        input("\nThe end! Press Enter 5 times to close the program. Thanks,baby...")
         [input(i) for i in range(4, 0, -1)]  # Wait for 4 enter presses
 
     # Function used to print text a little more fancier
