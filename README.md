@@ -20,7 +20,7 @@ You need to install Python, that can be done [here](https://www.python.org)
 ### Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker.git
+   git clone https://github.com/AnukarOP/Nitro-Checker-and-Generator.git/
    ```
 2. Install Python packages
    ```sh
@@ -34,9 +34,9 @@ You need to install Python, that can be done [here](https://www.python.org)
 #### Or this can be done using android with unrooted Termux
 ```
 pkg install git
-git clone https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker
+git clone https://github.com/AnukarOP/Nitro-Checker-and-Generator
 pkg install python
-cd Discord-Nitro-Generator-and-Checker
+cd Nitro-Checker-and-Generator
 pip install -r requirements.txt
 python3 main.py
 ```
@@ -55,7 +55,7 @@ The code will start generating and checking after that step
 
 ## Roadmap
 
-See the [open issues](https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/AnukarOP/Nitro-Checker-and-Generator/issues) for a list of proposed features (and known issues).
 
 ## Contributing
 
@@ -77,10 +77,9 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Contact
+Telegram : AnukarOP}
 
-Logicguy - [@Drillenissen#4268](https://www.discordapp.com) - logicguy.mailandcontact@gmail.com
-
-Project Link: [https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker](https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker)
+Project Link: [https://github.com/AnukarOP/Nitro-Checker-and-Generator](https://github.com/AnukarOP/Nitro-Checker-and-Generator)
 
 <!-- Statistics -->  
 
