@@ -50,7 +50,7 @@ The code will show you two prompts:
    ```channel settings » intergrations » webhooks » create webhook```  
    If you dont want to use a webhook simply leave this blank  
 
-The code will start generating and checking after that step
+The code will start generating and checking after that step, Best wishes for you :) by [AnukarOP](https://github.com/AnukarOP)
 
 
 ## Roadmap
@@ -61,19 +61,20 @@ See the [open issues](https://github.com/AnukarOP/Nitro-Checker-and-Generator/is
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. Fork the Project🤝🏻
+2. Star the Project⭐
+3. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+4. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+5. Push to the Branch (`git push origin feature/AmazingFeature`)
+6. Open a Pull Request📜
 
 ## Contact
-Telegram : [AnukarOP](telegram.me/AnukarOP)
+🚀 Telegram : [AnukarOP](telegram.me/AnukarOP)
 
 Project Link: [https://github.com/AnukarOP/Nitro-Checker-and-Generator](https://github.com/AnukarOP/Nitro-Checker-and-Generator)
 
 <!-- Statistics -->  
 
 <p>
-<img src=https://visitor-badge.laobi.icu/badge?page_id=AnukarOP.readme />
+                                         <img src=https://visitor-badge.laobi.icu/badge?page_id=AnukarOP.readme />
 </p>
