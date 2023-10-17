@@ -43,7 +43,7 @@ python3 main.py
    
 ## Usage
 
-Run the `main.py` file using `py -3 main.py` 
+Run the `main.py` file using `python3 main.py` 
 The code will show you two prompts:
 1. How many codes to generate 
 2. If you want to use a discord webhook, if you dont know how to get a discord webhook url it is located at   
