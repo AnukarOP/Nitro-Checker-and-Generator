@@ -2,7 +2,7 @@
 
 <a href="https://github.com/AnukarOP/Nitro-Checker-and-Generator"><img src="https://i.ibb.co/84xC98F/image.png" alt="image" border="0"></a>
 
-It generates and checks discord nitro codes at the same time for maximum efficiency
+`It Generates and Checks Unlimited Discord Nitro Codes at the same time for Maximum Efficiency ✨`
 
 ### Built With
 
