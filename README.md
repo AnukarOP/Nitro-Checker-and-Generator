@@ -20,7 +20,7 @@ You need to install Python, that can be done [here](https://www.python.org)
 ### Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/AnukarOP/Nitro-Checker-and-Generator.git/
+   git clone https://github.com/AnukarOP/Nitro-Checker-and-Generator
    ```
 2. Install Python packages
    ```sh
