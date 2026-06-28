@@ -68,11 +68,12 @@ Contributions are what make the open source community such an amazing place to l
 5. Push to the Branch (`git push origin feature/AmazingFeature`)
 6. Open a Pull Request📜
 
-<a href="bitcoin:1LxJFtXxVPboq12eYLTXNGaZtM1Yu9Yo7">![Bitcoin Donate Button](https://www.drupal.org/files/project-images/bitcoindonate.png)</a> Donate Here 👉🏻`1LxJFtXxVPboq12eYLTXNGaZtM1Yu9Yo7`
+please download it i needed download heheheehe
+
 
 ## Contact
 🚀 Telegram : [AnukarOP](telegram.me/AnukarOP)
-
+-    
 Project Link: [https://github.com/AnukarOP/Nitro-Checker-and-Generator](https://github.com/AnukarOP/Nitro-Checker-and-Generator)
 
 <!-- Statistics -->  
